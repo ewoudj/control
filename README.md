@@ -1,0 +1,1 @@
+JavaScript control base class for both server and client side GUI development. Control is the opposite of templating. Currently the API is not stable. 
