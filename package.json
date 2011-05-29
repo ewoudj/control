@@ -1,0 +1,20 @@
+{
+  "name": "control",
+  "description": "JavaScript control base class for both server and client side GUI development. Control is the opposite of templating.",
+  "version": "0.0.1",
+  "author": "Ewoud van den Boom <ewoudj@gmail.com>",
+  "contributors": [ 
+    { "name": "Ewoud van den Boom", "email": "ewoudj@gmail.com" }
+  ],
+  "keywords": ["GUI", "HTML", "javascript", "rest", "ajax"],
+  "repository" : { 
+    "type" : "git"
+  , "url" : "git://github.com/ewoudj/control.git"
+  },
+  "main": "lib/control.js",
+  "engines": { "node": ">= 0.4.1" }, 
+  "licenses" : [ { "type" : "MIT"
+    , "url" : "http://github.com/ewoudj/control/raw/master/LICENSE"
+    }
+  ]
+}
