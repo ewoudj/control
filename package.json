@@ -1,5 +1,5 @@
 {
-  "name": "control",
+  "name": "controljs",
   "description": "JavaScript control base class for both server and client side GUI development. Control is the opposite of templating.",
   "version": "0.0.1",
   "author": "Ewoud van den Boom <ewoudj@gmail.com>",
