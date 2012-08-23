@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/ewoudj/control.png)](http://travis-ci.org/ewoudj/control)
 JavaScript control base class for both server and client side GUI development. Control is the opposite of templating. Currently the API is not stable.
 
 Control.js is for people who prefer their HTML / DOM generating user interface code (server and client) completely written in JavaScript.
